@@ -27,3 +27,6 @@ evidencias/
 git/
 docker/
 
+## Objetivo
+
+Aplicar los conceptos básicos de control de versiones utilizando Git y GitHub: creación de repositorios, manejo de archivos, confirmaciones (commits), ramas y Pull Requests.
